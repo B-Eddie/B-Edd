@@ -1,5 +1,8 @@
-### Hi there 👋
-
+# Hi, I'm Eddie 👋
+I'm a full-stack developer who loves learning new coding languages and 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <!--
 **B-Edd/B-Edd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
