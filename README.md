@@ -1,6 +1,8 @@
 # Hi, I'm Eddie 👋
-I'm a full-stack developer who loves learning new coding languages and 
-https://github-readme-streak-stats.herokuapp.com/?user=b-edd
+I'm a full-stack developer who loves learning new coding languages and has way too many projects.
+
+
+
 <!--
 **B-Edd/B-Edd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
