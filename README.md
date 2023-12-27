@@ -1,8 +1,8 @@
-# Hi, I'm Eddie 👋
+e# Hi, I'm Eddie 👋
 I'm a full-stack developer who loves learning new coding languages and has way too many projects.
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-edd&theme=radical&align=left&layout=donut)](https://github.com/b-edd/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-edd&theme=radical&align=left&layout=donut&hide=Cython,Makefile,C,C++)](https://github.com/b-edd/github-readme-stats)
 [![Eddie's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-edd&theme=radical&rank_icon=github)](https://github.com/b-edd/github-readme-stats)
 
 ## Languages
