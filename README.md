@@ -9,7 +9,6 @@ I'm a full-stack developer who loves learning new coding languages and has way t
 [![My Skills](https://skillicons.dev/icons?i=python,flask,cs,html,css,js)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=b-edd)
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/868e9bc7b69fa71bc17134bce6fefa94627f9f91c3368992b385c546f42cd91e/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d622d656464"><img src="https://camo.githubusercontent.com/868e9bc7b69fa71bc17134bce6fefa94627f9f91c3368992b385c546f42cd91e/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d622d656464" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=b-edd" style="max-width: 100%;"></a></p>
 <!--
 **B-Edd/B-Edd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
